@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url("./assets/font/Poppins-Bold.ttf");
+}
+@font-face {
+    font-family: "Poppins-Thin";
+    src: url("./assets/font/Poppins-Thin.ttf");
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: "Poppins-Bold";
+    text-decoration: none;
+    color: #90a0d9;
+}
+
+nav {
+    display: flex;
+    gap: 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #bdbddd;
+    font-size: 0.8rem;
+}

@@ -1,0 +1,11 @@
+.hero-container {
+    width: 70%;
+    gap: 1.2rem;
+    text-align: center;
+
+}
+
+.hero-container p {
+    font-size: 0.8rem;
+    color: #bdbddd;
+}

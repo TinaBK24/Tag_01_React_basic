@@ -1,13 +1,4 @@
-@font-face {
-    font-family: "Poppins-Bold";
-    src: url("./assets/font/Poppins-Bold.ttf");
-}
-@font-face {
-    font-family: "Poppins-Thin";
-    src: url("./assets/font/Poppins-Thin.ttf");
-}
-
-header {
+nav {
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -19,12 +10,12 @@ header {
     color: #90a0d9;
 }
 
-nav {
+nav div {
     display: flex;
     gap: 1rem;
 }
 
-nav a {
+nav div a {
     text-decoration: none;
     color: #bdbddd;
     font-size: 0.8rem;

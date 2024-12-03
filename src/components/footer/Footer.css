@@ -1,7 +1,11 @@
 footer {
     width: 100%;
-    gap: 4rem;
     text-align: center;
+}
+
+footer a {
+    display: inline-block;
+    margin-bottom: 50px;
 }
 
 footer p {

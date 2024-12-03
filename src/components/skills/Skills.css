@@ -1,6 +1,6 @@
 .skills-container {
     width: 40%;
-    gap: 1.2rem;
+    margin: 0 auto 50px auto;
     text-align: center;
 }
 

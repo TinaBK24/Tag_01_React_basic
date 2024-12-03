@@ -1,4 +1,4 @@
-import Project from "../project/project";
+import Project from "../project/Project";
 import "./Projects.css"
 
 const Projects = () => {
